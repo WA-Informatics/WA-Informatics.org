@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Open Sans',
+      sans-serif;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .btn{
+    color: white;
+    background-color: #39B54A;
+    border-radius: 25px;
+  }
+  .btn:hover{
+      color: white;
+      background-color: rgb(26, 141, 42);
+  
+  }

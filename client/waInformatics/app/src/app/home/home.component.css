@@ -1,0 +1,18 @@
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+    #mission_statement{
+        padding-top: 1.75em;
+        padding-left: 3em;
+        padding-right: 3em;
+        font-size: 3.75em;
+        font-weight: bold;
+        color:black
+    }
+    #home{ 
+        
+        background-size: 100% 100%;
+        width: 100vw;
+        height: 100vh;
+        background-repeat: no-repeat;
+    }
+}

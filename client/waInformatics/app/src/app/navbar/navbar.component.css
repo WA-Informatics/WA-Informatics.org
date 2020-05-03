@@ -1,0 +1,21 @@
+/* Desktop Styles */
+.nav-link{
+    font-weight: bolder;
+    display: inline;
+}
+
+.nav-item{
+    padding-left: 3em;
+    color: white;
+}
+
+.navbar li{
+    display: inline;
+}
+
+.navbar-dark{
+    background-color: rgb(0, 0, 0);
+    height: 4rem;
+}
+
+
